@@ -17,7 +17,7 @@
     <string name="mc">6</string>
     <string name="md">25</string>
     <string name="questaoq">O que é NaCl?</string>
-    <string name="qa">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+    <string name="qa">Pedra</string>
     <string name="qb">Água</string>
     <string name="qc">Sal</string>
     <string name="qd">Refrigerante</string>
@@ -29,4 +29,9 @@
     <string name="acertos">Parabens você acertou 10/10</string>
     <string name="menu">Menu</string>
     <string name="sair2">Sair</string>
+    <string name="jogar">Jogar</string>
+    <string name="sair">Sair</string>
+    <string name="cerebrum">Cerebrum</string>
+    <string name="escolha">Em qual matéria você deseja testar seus conhecimentos?</string>
+    <string name="cinza">Cinza</string>
 </resources>
