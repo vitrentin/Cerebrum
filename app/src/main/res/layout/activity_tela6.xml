@@ -38,15 +38,15 @@
             android:id="@+id/imageView5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:srcCompat="@drawable/festaesquerda"
-            android:contentDescription="TODO" />
+            android:contentDescription="@string/imagem"
+            tools:srcCompat="@drawable/festaesquerda" />
 
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/festadireita"
-            android:contentDescription="TODO" />
+            android:contentDescription="@string/imagem"
+            app:srcCompat="@drawable/festadireita" />
 
     </LinearLayout>
 

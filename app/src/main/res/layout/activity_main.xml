@@ -14,15 +14,18 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2"
+        android:layout_weight="0.1"
         android:gravity="center"
         android:orientation="horizontal">
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_marginTop="30dp"
+            android:contentDescription="@string/imagem"
+            android:rotation="3"
+            app:srcCompat="@drawable/cere" />
     </LinearLayout>
 
     <LinearLayout
@@ -36,7 +39,7 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center|center_horizontal|center_vertical"
+            android:layout_gravity="center_horizontal|top"
             android:background="#3F3C41"
             android:backgroundTint="#3F3C41"
             android:text="@string/cerebrum"

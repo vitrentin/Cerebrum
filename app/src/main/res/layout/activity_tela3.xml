@@ -21,8 +21,9 @@
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            tools:srcCompat="@drawable/matematica" />
+            android:layout_height="200dp"
+            android:contentDescription="@string/imagem"
+            tools:srcCompat="@drawable/mate" />
     </LinearLayout>
 
     <LinearLayout
